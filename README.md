@@ -34,7 +34,7 @@ Lexica.art：
 | título | I.A árvore tecnológica com luz azul e símbolos das tecnologia |
 
 
-## GoogleColab：[Código Completo](https://colab.research.google.com/drive/1Zx-MhkU5BCguQpDQSAi2qPvgpIgkTIY2#scrollTo=oUNajfgQIfn7) 
+## GoogleColab：[Código Completo](https://github.com/Dayanebiaerafa/trabalho-de-extensao-ia/blob/main/Trabalho_de_Extens%C3%A3o.ipynb) 
 
 ## ✨ Features
 
