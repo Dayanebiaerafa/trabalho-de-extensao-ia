@@ -5,7 +5,7 @@
 # Trabalho de Extesão I.A.s
 
 
-# 📖 [Ler ebook](https://github.com/Dayanebiaerafa/trabalho-de-extencao-ia/blob/main/Capa.png)
+# 📖 [Ler ebook](https://github.com/Dayanebiaerafa/trabalho-de-extensao-ia/blob/main/Trabalho%20de%20Extens%C3%A3o.pdf)
 ### A seguir, estão as ferramentas utilizadas para a criação do ebook e o desenvolvimento do Trabalho.
 
 
